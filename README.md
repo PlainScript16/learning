@@ -1,2 +1,3 @@
 # learning
-simple script
+Simple  CSS classes to make a website
+
